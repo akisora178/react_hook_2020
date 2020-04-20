@@ -159,6 +159,11 @@ const useNetwork = netWorkOnChange => {
   useEffect(() => {
     window.addEventListener("online",handler);
     window.addEventListener("offline",handler);
+
+    /*() => {
+      window.removeEventListener("online",handler);
+      window.removeEventListener("offline",handler);
+    }*/ //온라인일때 주석 풀어서 확인 필요
     
   },[])
   
