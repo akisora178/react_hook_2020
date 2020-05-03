@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_hook_2020/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react_hook_2020/static/js/main.0b9d410a.chunk.js",
+    "main.js.map": "/react_hook_2020/static/js/main.0b9d410a.chunk.js.map",
+    "runtime-main.js": "/react_hook_2020/static/js/runtime-main.bb0a3fe0.js",
+    "runtime-main.js.map": "/react_hook_2020/static/js/runtime-main.bb0a3fe0.js.map",
+    "static/js/2.dbf1d25e.chunk.js": "/react_hook_2020/static/js/2.dbf1d25e.chunk.js",
+    "static/js/2.dbf1d25e.chunk.js.map": "/react_hook_2020/static/js/2.dbf1d25e.chunk.js.map",
+    "index.html": "/react_hook_2020/index.html",
+    "precache-manifest.cda7e131ae10222e43a55cb280142532.js": "/react_hook_2020/precache-manifest.cda7e131ae10222e43a55cb280142532.js",
+    "service-worker.js": "/react_hook_2020/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react_hook_2020/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.dbf1d25e.chunk.js.LICENSE.txt": "/react_hook_2020/static/js/2.dbf1d25e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb0a3fe0.js",
+    "static/js/2.dbf1d25e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0b9d410a.chunk.js"
+  ]
+}
