@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react_hook_2020/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react_hook_2020/static/js/main.96dd27f9.chunk.js",
-    "main.js.map": "/react_hook_2020/static/js/main.96dd27f9.chunk.js.map",
+    "main.js": "/react_hook_2020/static/js/main.e5a25d75.chunk.js",
+    "main.js.map": "/react_hook_2020/static/js/main.e5a25d75.chunk.js.map",
     "runtime-main.js": "/react_hook_2020/static/js/runtime-main.bb0a3fe0.js",
     "runtime-main.js.map": "/react_hook_2020/static/js/runtime-main.bb0a3fe0.js.map",
-    "static/js/2.dbf1d25e.chunk.js": "/react_hook_2020/static/js/2.dbf1d25e.chunk.js",
-    "static/js/2.dbf1d25e.chunk.js.map": "/react_hook_2020/static/js/2.dbf1d25e.chunk.js.map",
+    "static/js/2.81b2951d.chunk.js": "/react_hook_2020/static/js/2.81b2951d.chunk.js",
+    "static/js/2.81b2951d.chunk.js.map": "/react_hook_2020/static/js/2.81b2951d.chunk.js.map",
     "index.html": "/react_hook_2020/index.html",
-    "precache-manifest.802f637d4b6443de7ced7bbc50312214.js": "/react_hook_2020/precache-manifest.802f637d4b6443de7ced7bbc50312214.js",
+    "precache-manifest.ab7554542ef37052dd69972cde0a4d0f.js": "/react_hook_2020/precache-manifest.ab7554542ef37052dd69972cde0a4d0f.js",
     "service-worker.js": "/react_hook_2020/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/react_hook_2020/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.dbf1d25e.chunk.js.LICENSE.txt": "/react_hook_2020/static/js/2.dbf1d25e.chunk.js.LICENSE.txt"
+    "static/js/2.81b2951d.chunk.js.LICENSE.txt": "/react_hook_2020/static/js/2.81b2951d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bb0a3fe0.js",
-    "static/js/2.dbf1d25e.chunk.js",
+    "static/js/2.81b2951d.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.96dd27f9.chunk.js"
+    "static/js/main.e5a25d75.chunk.js"
   ]
 }
